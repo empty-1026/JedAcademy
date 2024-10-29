@@ -1,0 +1,28 @@
+#basliq{
+    color: white;
+    background-color: darkolivegreen;
+    margin: 10px, 100%;
+    padding: 25px;
+    text-align: start;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+}
+
+h1{
+    margin: 1%;
+}
+
+p{
+    margin: 1%;
+}
+
+a{
+    background-color: black;
+    color: white;
+    padding: ;
+}
+
+#linkler{
+    color: white;
+    padding: 1%;
+    background-color: olive;
+}
